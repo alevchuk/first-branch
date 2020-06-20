@@ -5,7 +5,7 @@ The terms "master", "slave", "whitelist", "blacklist" have racist connotation. U
 
 ## Why now?
 
-Supposedly Github is working on this issue, yet why wait when it's so easy to get done.
+Supposedly Github is also working on this issue, yet why wait when it's so easy to get done now. Fear of choosing the name that others will not choose can lead to loss of momentum to the initiative. Renaming a branch again is easy if one decides they want a different default branch name.
 
 
 ## Why "init"?
