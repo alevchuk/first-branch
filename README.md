@@ -33,7 +33,7 @@ Replace all occurrences of "master" with "first", e.g.:
 git push origin :master
 ```
 
-## Looks
+## The New Look
 
 ![git-status](https://github.com/alevchuk/first-branch/blob/first/img/git-status.png)
 
