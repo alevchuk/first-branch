@@ -6,3 +6,29 @@ The terms "master", "slave", "whitelist", "blacklist" have racist origins. Unfor
 
 ## Renaming repository branch names
 
+1. Rename the local branch:
+
+```
+git branch -m master first
+git push origin first
+```
+
+2. Update Github default branch:
+
+Go to your repo url. Click Settings. Click Branches. Make "first" the default branch.
+
+
+3. Update .git/config
+
+Replace all occurrences of "master" with "first", e.g.:
+```
+[branch "first"]
+    remote = origin
+    merge = refs/heads/first
+```
+
+4. Delete the "master" branch from GitHub
+
+```
+git push origin :master
+```
