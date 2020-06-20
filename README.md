@@ -4,10 +4,6 @@ get rid of "master" terminology
 
 The terms "master", "slave", "whitelist", "blacklist" have racist origins. Unfortunately, they are commonplace in the language of the computer science community. It's time to become more welcoming to black engineers by using language that avoids terms loaded with prejudice.
 
-![git-status](https://github.com/alevchuk/first-branch/blob/first/img/git-status.png)
-
-![github-branch](https://github.com/alevchuk/first-branch/blob/first/img/github-branch.png)
-
 ## Renaming repository branch names
 
 1. Rename the local branch:
@@ -36,3 +32,9 @@ Replace all occurrences of "master" with "first", e.g.:
 ```
 git push origin :master
 ```
+
+## Looks
+
+![git-status](https://github.com/alevchuk/first-branch/blob/first/img/git-status.png)
+
+![github-branch](https://github.com/alevchuk/first-branch/blob/first/img/github-branch.png)
