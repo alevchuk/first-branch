@@ -7,7 +7,7 @@ The terms "master", "slave", "whitelist", "blacklist" have racist connotation. U
 
 ## Why first?
 
-Supposedly Github is working on this issue, yet why wait when it's so easy to do.
+Supposedly Github is working on this issue, yet why wait when it's so easy to get done.
 
 I picked the name "first" for my repos because it's the same meaning as primary yet shorter. First does not mean "main" or "authoritative". Git is pull based. People only pull the changes that they want. So in that regard "main" would not be accurate.
 
