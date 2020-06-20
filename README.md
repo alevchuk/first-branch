@@ -4,6 +4,12 @@ get rid of "master" terminology
 
 The terms "master", "slave", "whitelist", "blacklist" have racist origins. Unfortunately, they are commonplace in the language of the computer science community. It's time to become more welcoming to black engineers by using language that avoids terms loaded with prejudice.
 
+## Why first?
+
+Supposedly Github is working on this issue, yet why wait when it's so easy to do.
+
+I picked the name "first" for my repos because it's the same meaning as primary yet shorter. First does not mean "main" or "authoritative". Git is pull based. People only pull the changes that they want. So in that regard "main" would not be accurate.
+
 ## Renaming repository branch names
 
 1. Rename the local branch:
