@@ -1,5 +1,4 @@
-# 
--branch
+# init-branch
 
 get rid of "master" terminology
 
@@ -13,7 +12,7 @@ Supposedly Github is working on this issue, yet why wait when it's so easy to ge
 
 ## Why "init"?
 
-I picked "init" as a replacement for "master" in my repos because this is the branch were all the initial development is done. One of the options I cosidered was "main" to stress the imporance. Yet git is pull based. People only pull whenever and from wherever they want. The importance of a given branch is subjective. So in that regard "main"  would not be accurate.
+I picked "init" as a replacement for "master" in my repos because this is the branch were all the initial development is done. One of the options cosidered was "main". "Main" stresses the imporance of the branch. Yet git is pull based. People only pull whenever and from wherever they want. The importance of a given branch is subjective. So in that regard "main"  would not be accurate.
 
 
 ## Satus of this doc/tool
