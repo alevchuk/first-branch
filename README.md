@@ -10,9 +10,9 @@ The terms "master", "slave", "whitelist", "blacklist" have racist connotation. U
 Supposedly Github is working on this issue, yet why wait when it's so easy to get done.
 
 
-## Why "latest"?
+## Why "first"?
 
-I picked "latest" as a replacement for "master" in my repos because it's where all the latest changes are. One of the options I cosidered was "main" to stress the imporance. Yet git is pull based. People only pull whenever and from wherever they want. The importance of a given branch is subjective. So in that regard "main"  would not be accurate.
+I picked "first" as a replacement for "master" in my repos because this is the branch were all the initial development is done. One of the options I cosidered was "main" to stress the imporance. Yet git is pull based. People only pull whenever and from wherever they want. The importance of a given branch is subjective. So in that regard "main"  would not be accurate.
 
 
 ## Satus of this doc/tool
