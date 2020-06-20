@@ -11,7 +11,7 @@ Supposedly Github is working on this issue, yet why wait when it's so easy to ge
 
 ## Why "first"?
 
-I picked the branch name "first" for my repos because it's the same meaning as primary yet shorter. First does not mean "main" or "authoritative". Git is pull based. People only pull the changes that they want. So in that regard "main" would not be accurate.
+I picked "first" as a replacement for "master" in my repos because it's the same meaning as primary yet shorter. First does not mean "main" or "authoritative". Git is pull based. People only pull the changes that they want. So in that regard "main" would not be accurate.
 
 
 ## Satus of this doc/tool
