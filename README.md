@@ -7,7 +7,7 @@ The terms "master", "slave", "whitelist", "blacklist" have racist connotations. 
 
 ## Why now?
 
-Supposedly Github is also working on this issue, yet why wait when it's so easy to get done now. Fear of choosing a "non-standard" default branch name can lead to loss of momentum to the initiative. Renaming a branch again is easy if one decides they want a different name.
+As of 2020 July 21, Github is also working on this issue, yet why wait when it's so easy to get done now. Fear of choosing a "non-standard" default branch name can lead to loss of momentum to the initiative. Renaming a branch again is easy if one decides they want a different name.
 
 
 ## Why "init"?
