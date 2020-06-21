@@ -43,6 +43,7 @@ if [ "$count" -gt "0" ]; then
                     grep --color=always master "$file"
 
                     if prompt "Replace?"; then
+                        perl -pi -e 's/master/init/gi' "$file"
                         echo Done
                     fi
                 fi
