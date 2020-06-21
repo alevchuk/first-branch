@@ -1,6 +1,6 @@
 # init-branch
 
-The terms "master", "slave", "whitelist", "blacklist" have racist connotation. Unfortunately, these terms are commonplace in the language of the computer science community. It's time to become more welcoming to black engineers by avoiding terms loaded with prejudice.
+The terms "master", "slave", "whitelist", "blacklist" have racist connotations. Unfortunately, these terms are commonplace in the language of the computer science community. It's time to become more welcoming to black engineers by avoiding terms loaded with prejudice.
 
 
 ## Why now?
@@ -10,12 +10,12 @@ Supposedly Github is also working on this issue, yet why wait when it's so easy 
 
 ## Why "init"?
 
-Branch name "init" can be a replacement for "master" in source code repositories because this is the branch were all the initial development is done. Another option is "main". "Main" stresses the imporance of the branch. Yet git is pull based. People only pull whenever and from wherever they want. The importance of a given branch is subjective. So in that regard "main" would not be accurate.
+Branch name "init" can be a replacement for "master" in source code repositories because this is the branch were all the initial development is done. Another option is "main". "Main" stresses the importance of the branch. Yet git is pull based. People only pull whenever and from wherever they want. The importance of a given branch is subjective. So in that regard "main" would not be accurate.
 
 
-## Satus of this doc/tool
+## Status of this doc/tool
 
-Currently this documentation and tooling will help your rename the "master" branch and occurances of "master" in text.
+Currently this documentation and tooling will help your rename the "master" branch and occurrences of "master" in text.
 
 I try to add the handling of other terms this month...
 
@@ -52,7 +52,12 @@ git push origin :master
 
 ## Replacing the text
 
-...
+Your repository may contain Documentation is github hyperlinks to itself. Renaming the branch may break
+those links unless we also replace the occurrence of "master" in text.
+
+This script will help you do so. It will prompt you whether you want to replace all occurrences at once (which you can then go over with `git diff` or replace one file at a time).
+
+NOTE: this may break references to external repositories that still use the problematic term
 
 
 ## The New Look
