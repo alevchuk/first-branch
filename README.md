@@ -61,7 +61,7 @@ This script will help you do so. It will prompt you whether you want to replace 
 
 You can find [replace_text.sh](https://github.com/alevchuk/init-branch/blob/init/replace_text.sh) in this repo. For a quick start, simply to this in your local repository checkout that your trying to clean up:
 ```
-cd path_to_you_local_repo
+cd YOUR_LOCAL_REPO
 curl https://raw.githubusercontent.com/alevchuk/init-branch/init/replace_text.sh > ./replace_text.sh
 chmod +x ./replace_text.sh
 ./replace_text.sh
