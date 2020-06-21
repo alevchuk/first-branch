@@ -1,5 +1,7 @@
 # init-branch
 
+## Proposal for replacing engineering terms with racist connotations
+
 The terms "master", "slave", "whitelist", "blacklist" have racist connotations. Unfortunately, these terms are commonplace in the language of the computer science community. It's time to become more welcoming to black engineers by avoiding terms loaded with prejudice.
 
 
