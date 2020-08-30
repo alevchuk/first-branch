@@ -19,8 +19,6 @@ Branch name "init" can be a replacement for "master" in source code repositories
 
 Currently this documentation and tooling will help your rename the "master" branch and occurrences of "master" in text.
 
-I try to add the handling of other terms this month...
-
 
 ## Renaming repository branch names
 
