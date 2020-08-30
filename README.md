@@ -2,17 +2,17 @@
 
 ## Proposal for replacing engineering terms with racist connotations
 
-The terms "master", "slave", "whitelist", "blacklist" have racist connotations. Unfortunately, these terms are commonplace in computer science. It's time to become more welcoming to black engineers by avoiding terms loaded with prejudice.
+The terms "master", "slave" (especially in combination, e.g. "master/slave database relication"), "whitelist", "blacklist" have racist connotations. Unfortunately, these terms are commonplace in computer science. It's time to become more welcoming to black engineers by avoiding terms loaded with prejudice.
 
 
 ## Why now?
 
-As of 2020 July 21, Github is one of the many companies working on this issue, yet why wait when it's so easy to get done now. Fear of choosing a "non-standard" default branch name can lead to loss of momentum to the initiative. Renaming a branch again is easy if one decides they want a different name.
+As of 2020 July 21, Github is one of the many companies working on this issue, yet why wait when it's so easy to get done now. Fear of choosing a "non-standard" default branch name can lead to loss of momentum to the initiative. Renaming a branch again is easy if a different name is desired.
 
 
 ## Why "init"?
 
-Branch name "init" can be a replacement for "master" in source code repositories because this is the branch where all the initial development is done. Another option is "main". "Main" stresses the importance of the branch. Yet git is pull based. People only pull whenever and from wherever they want. The importance of a given branch is subjective. So in that regard "main" would not be accurate.
+Branch name "init" can be a replacement for "master" in source code repositories because this is the branch where all the initial development is done. Another option is "main". "Main" stresses the importance of the branch. Yet git is pull based. People pull whenever and from wherever. The importance of a given branch is subjective. So in that regard "main" would not be accurate.
 
 
 ## Status of this doc/tool
