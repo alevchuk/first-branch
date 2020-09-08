@@ -19,6 +19,10 @@ Branch name "init" can be a replacement for "master" in source code repositories
 
 Currently this documentation and tooling will help your rename the "master" branch and occurrences of "master" in text.
 
+**UPDATE:** I'm no longer pursuing renaming git “master” branches because I found that a single “master” with a non-slave usage was OK with my black engineer friend. However, “master/slave” and whitelist/blacklist usage should go away as has been confirmed unwelcoming by multiple black engineers.
+
+Leaving the doc up in case anyone needs instructions on how to rename the default branch.
+
 
 ## Renaming repository branch names
 
